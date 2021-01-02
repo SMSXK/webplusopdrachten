@@ -1,0 +1,19 @@
+label{
+     display: inline-block;
+     float: left;
+     clear: left;
+     width: 100px;
+     text-align: left;
+ }
+input {
+    display: inline-block;
+    float: left;
+}
+.button2  {
+    margin: -280px;
+    margin-top: 130px;
+    background-color: cornflowerblue;
+}
+select {
+    width: 500px;
+}
